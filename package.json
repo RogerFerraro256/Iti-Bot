@@ -1,0 +1,30 @@
+{
+  "name": "iti-bot",
+  "version": "0.0.1",
+  "description": "a project to help my best friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerFerraro256/Iti-Bot.git"
+  },
+  "keywords": [
+    "music",
+    "bot"
+  ],
+  "author": "Roger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RogerFerraro256/Iti-Bot/issues"
+  },
+  "homepage": "https://github.com/RogerFerraro256/Iti-Bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^3.2.2"
+  }
+}
